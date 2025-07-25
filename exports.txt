@@ -1,0 +1,11 @@
+Dump of file SBAMBRES_original.DLL
+
+File Type: DLL
+
+  Section contains the following exports:
+
+    Ordinal Hint Name
+          1    0 MyExportedFunction1
+          2    1 AnotherExportedFunction
+          3    2 GetVersionInfo
+          ...
